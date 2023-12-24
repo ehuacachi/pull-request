@@ -1,3 +1,7 @@
-# pull-request
+I# Lista de Participantes
 
-Editado por Elvis Huacachi
+* Elvis Huacachi
+* Ada Palomino
+* Dylan Huacachi
+* ...
+
